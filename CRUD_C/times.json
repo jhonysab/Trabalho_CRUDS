@@ -1,0 +1,13 @@
+[{
+		"nome":	"vasco",
+		"estado":	"rj",
+		"gols":	30
+	}, {
+		"nome":	"fluminense",
+		"estado":	"rj",
+		"gols":	100
+	}, {
+		"nome":	"flamengo",
+		"estado":	"rj",
+		"gols":	85
+	}]

@@ -1,0 +1,18 @@
+
+
+{
+  "tasks": [
+    {
+      "label": "build",
+      "command": "gcc",
+      "args": [
+        "-g",
+        "${file}",
+        "cJSON.c",
+        "-o",
+        "${fileDirname}/${fileBasenameNoExtension}"
+      ],
+      "type": "shell"
+    }
+  ]
+}
