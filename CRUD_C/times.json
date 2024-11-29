@@ -10,4 +10,8 @@
 		"nome":	"flamengo",
 		"estado":	"rj",
 		"gols":	85
+	}, {
+		"nome":	"fortaleza",
+		"estado":	"ceara",
+		"gols":	60
 	}]

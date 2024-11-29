@@ -1,0 +1,15 @@
+# Requisitos para compilar e executar o CRUD em C
+
+1. Compilador compatível com C (ex.: GCC, Clang, MinGW).
+2. Biblioteca padrão C (stdlib.h, stdio.h).
+
+# Instruções de Compilação:
+`gcc programaCrude.c cJson.c -o crud`
+
+# Instruções de Execução:
+Se ja estiver na pasta correta so usar o 
+ `crud`
+
+Agora se nao estiver na pasta correta so usar o
+ `./crud`
+
