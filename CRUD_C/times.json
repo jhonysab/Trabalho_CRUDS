@@ -1,8 +1,4 @@
 [{
-		"nome":	"vasco",
-		"estado":	"rj",
-		"gols":	30
-	}, {
 		"nome":	"fluminense",
 		"estado":	"rj",
 		"gols":	100
@@ -11,7 +7,7 @@
 		"estado":	"rj",
 		"gols":	85
 	}, {
-		"nome":	"fortaleza",
-		"estado":	"ceara",
-		"gols":	60
+		"nome":	"america mineiro",
+		"estado":	"rj",
+		"gols":	1
 	}]

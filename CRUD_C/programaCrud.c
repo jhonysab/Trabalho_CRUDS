@@ -66,7 +66,7 @@ void adicionar_time(const char *arquivo) {
     cJSON_Delete(times);
     free(json_string);
 
-    printf("\033[1;32m.Time adicionado com sucesso!\033[0m\n");
+    printf("\033[1;32mTime adicionado com sucesso!\033[0m\n");
 }
 
 void listar_times(const char *arquivo) {
@@ -196,7 +196,7 @@ int main() {
         printf("\033[1;32m1. Adicionar time\033[0m\n");
         printf("\033[1;32m2. Listar times\033[0m\n");
         printf("\033[1;31m3. Remover time\033[0m\n");
-        printf("\n\033[38;5;196m0. Sair\033[0m\n");
+        printf("\n\033[38;5;196m0. Sair\033[0m\n\n");
         printf("\033[1;34mEscolha uma opcao: \033[0m");
         scanf("%d", &opcao);
 
