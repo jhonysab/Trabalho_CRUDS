@@ -1,0 +1,28 @@
+Java Development Kit (JDK) ou superior
+
+Estrutura sugerida:
+/src
+├── Contato.java
+├── ContatoDAO.java
+├── ContatoService.java
+├── Main.java
+/data
+├── contatos.csv  (será criado automaticamente se não existir)
+
+O programa utiliza um arquivo chamado contatos.csv para armazenar os dados.
+Se o arquivo não existir na primeira execução, ele será criado automaticamente no mesmo diretório onde o programa for executado.
+
+Certifique-se de que:
+O programa tenha permissão de leitura/escrita no diretório onde o CSV será criado.
+
+
+Depuração e Problemas Comuns:
+
+Problema: "Erro de arquivo não encontrado (FileNotFoundException)."
+Certifique-se de que o programa tenha permissão para criar ou acessar o arquivo CSV.
+
+Problema: "Entrada inválida no menu."
+Certifique-se de inserir números corretos (1-5) quando solicitado.
+
+Problema: "Erro ao compilar (cannot find symbol)."
+Certifique-se de que todas as classes estão no mesmo pacote ou importadas corretamente.
