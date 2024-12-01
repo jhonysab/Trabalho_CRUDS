@@ -6,7 +6,7 @@ Trabalho proposto pela faculdade com o intuito de demonstrar conhecimentos das l
 
 Jhonatan brum
 
-José Vicktor
+José Viktor
 
 Victor Moura
 
