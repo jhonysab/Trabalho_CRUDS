@@ -1,13 +1,17 @@
-[{
-		"nome":	"fluminense",
-		"estado":	"rj",
-		"gols":	100
-	}, {
-		"nome":	"flamengo",
-		"estado":	"rj",
-		"gols":	85
-	}, {
-		"nome":	"america mineiro",
-		"estado":	"rj",
-		"gols":	1
-	}]
+[
+  {
+    "nome": "fluminense",
+    "estado": "rj",
+    "gols": 100
+  },
+  {
+    "nome": "flamengo",
+    "estado": "rj",
+    "gols": 85
+  },
+  {
+    "nome": "botafogo",
+    "estado": "rj",
+    "gols": 1
+  }
+]
