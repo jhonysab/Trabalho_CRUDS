@@ -12,7 +12,7 @@ public class ContatoDAO {
             String linha;
             while ((linha = br.readLine()) != null) {
                 String[] dados = linha.split(SEPARATOR);
-                if (dados.length == 3) { // Verifica se há 3 campos
+                if (dados.length == 3) { 
                     contatos.add(new Contato(dados[0], dados[1], dados[2]));
                 }
             }
