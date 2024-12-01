@@ -4,7 +4,7 @@
 2. Biblioteca padrão C (stdlib.h, stdio.h).
 
 # Instruções de Compilação:
-`gcc programaCrude.c cJson.c -o crud`
+`gcc programaCrud.c cJson.c -o crud`
 
 # Instruções de Execução:
 Se ja estiver na pasta correta so usar o 
